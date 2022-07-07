@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/ezgif.com-gif-maker.gif" alt="DevLinks Show Up Gif" /></p>
 
-# Dev-Link
+# Dev-Links
 Projeto desenvolvido para ajudar devs a organizar suas redes sociais e contatos em um único lugar.
 
 ## Tecnologias
